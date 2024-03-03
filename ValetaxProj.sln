@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValetaxProj", "ValetaxProj\ValetaxProj.csproj", "{FEA7C1C4-496C-478E-AD24-26D5BE78D1AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA7C1C4-496C-478E-AD24-26D5BE78D1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA7C1C4-496C-478E-AD24-26D5BE78D1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA7C1C4-496C-478E-AD24-26D5BE78D1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA7C1C4-496C-478E-AD24-26D5BE78D1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D49848-DC80-46B4-8645-1F8281129170}
+	EndGlobalSection
+EndGlobal
